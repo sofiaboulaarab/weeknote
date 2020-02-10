@@ -1,7 +1,7 @@
 # bi-weeknote #3
 Le 09 février 2020
 
-## Ce qu’il s’est passé
+## Ce qu’il s’est passé (ces deux dernière semaines)
 - de la recherche utilisateur, de l’architecture d’information, de la modélisation de parcours (mon quotidien 3 jours / semaine)
 - 2 cours “apprendre à développer une cartographie web” avec Thomas, pour suivre l’avancement c’est par ici : (lien vers le GitHub)
 
@@ -15,5 +15,5 @@ Le 09 février 2020
 - plus de place dans un co-working qui avait l’air très sympa à Gap
 - je suis bloquée sur mon projet de recherche
 
-## Vu, lu, entendu, ...
+## Vu, lu, regardé, ...
 Interview très intéressante de Guillaume Pitron sur Thinkerview [L’enfumage de la transition écologique ?](https://www.youtube.com/watch?v=2lHTHINmNVk&t=31s)
